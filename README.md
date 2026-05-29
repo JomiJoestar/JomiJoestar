@@ -1,4 +1,4 @@
-<h1 align="center">JomiJoestar</h1>
+<h1 align="center">Yomaira Pardo Pajaro</h1>
 
 <p align="center">
   <strong>PYTHON DEVELOPER EN FORMACIÓN</strong> · <strong>BACKEND / FULLSTACK JUNIOR</strong>
