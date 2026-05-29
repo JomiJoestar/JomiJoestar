@@ -72,17 +72,6 @@ Busco seguir creciendo como desarrollador Python, crear proyectos cada vez más 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JomiJoestar&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomiJoestar&layout=compact&theme=github_dark" />
-</p>
-
----
 
 ## 🤝 Contacto
 
