@@ -35,4 +35,59 @@ Me gusta aprender construyendo proyectos reales, mejorar mi lógica de programac
 
 - 🐍 **Python**
 - 🧱 **Programación Orientada a Objetos**
-- 📁 **
+- 📁 **Manejo de archivos**
+- 🗄️ **MySQL**
+- 🌐 **Flask**
+- 🎨 **HTML, CSS y Bootstrap**
+- 🖥️ **Tkinter**
+- ⚙️ **APIs REST**
+- 🅰️ **Angular**
+- 🤖 **ChatGPT aplicado al desarrollo**
+- 🧪 **Postman**
+- 💻 **PyCharm / VS Code**
+- 🔧 **Git y GitHub**
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Python avanzado
+- POO en Python
+- Conexión a bases de datos con Python y MySQL
+- Desarrollo de interfaces gráficas con Tkinter
+- Aplicaciones web con Flask
+- Desarrollo fullstack con Angular, Flask y MySQL
+- Buenas prácticas para organizar proyectos en GitHub
+
+
+## 🎯 Objetivo profesional
+
+Busco seguir creciendo como desarrollador Python, crear proyectos cada vez más completos y prepararme para oportunidades como:
+
+- ✅ Desarrollador Python Junior
+- ✅ Backend Developer Junior
+- ✅ Desarrollador Flask
+- ✅ Soporte en proyectos web y bases de datos
+- ✅ Prácticas o roles trainee en desarrollo de software
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JomiJoestar&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JomiJoestar&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+## 🤝 Contacto
+
+Estoy abierto a seguir aprendiendo, colaborar en proyectos y conectar con personas del mundo tech.
+
+- 📧 Email: yomairapardopajaro@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/yomaira-pardo-223b3028b
+- 🐙 GitHub: https://github.com/JomiJoestar
